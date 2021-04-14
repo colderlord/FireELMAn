@@ -13,7 +13,7 @@
     "gl-mat4": "^1.1.4",
     "gl-react": "^3.13.0",
     "gl-react-native": "^3.13.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "matter-js": "^0.13.0",
     "react": "16.0.0-alpha.12",
     "react-motion": "^0.5.0",
